@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SirFailaL0t
+- 👋 Hi, I’m Jakob
 - 👀 I’m interested in javascript web technologies, C# applications and everthing gamedev related
 - 🌱 I’m currently learning Godot, Mario Maker 2 and ReactJS
 - 💞️ I’m looking to collaborate on gamedev projects and open source software for visualizations of robotics data
